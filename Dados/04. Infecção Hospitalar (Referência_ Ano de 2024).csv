@@ -1,0 +1,17 @@
+NOME DA BASE: Infecção Hospitalar;
+DESCRIÇÃO DA BASE: Taxa de Infecção Hospitalar;
+PERÍODO DE REFERÊNCIA: Ano de 2024;
+;
+MÊS;TAXA DE INFECÇÃO HOSPITALAR
+janeiro;8,65%
+fevereiro;5,36%
+março;5,84%
+abril;7,74%
+maio;8,03%
+junho;5,21%
+julho;7,27%
+agosto;6,14%
+setembro;5,60%
+outubro;5,00%
+novembro;4,35%
+dezembro;4,13%
